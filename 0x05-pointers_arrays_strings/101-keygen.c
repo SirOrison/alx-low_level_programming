@@ -21,4 +21,4 @@ int main(void)
 	}
 	printf("%c\n", (2772 - c));
 	return (0);
-}}
+}
